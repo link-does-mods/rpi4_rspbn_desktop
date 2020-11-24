@@ -50,3 +50,5 @@ sudo apt install barrier
 ```
 sudo apt install openvpn
 ```
+### box86
+Allows the use of some x86 programs oh the rpi. You can download it ![here](https://github.com/link-does-mods/rpi4_rspbn_desktop/blob/main/box86_20201006-1_armhf.deb). To install, just run the .deb file.
