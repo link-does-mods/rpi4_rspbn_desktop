@@ -46,3 +46,7 @@ Allows for using one mouse and keyboard beyween your pi and another pc. Similar 
 ```
 sudo apt install barrier
 ```
+### openvpn
+```
+sudo apt install openvpn
+```
